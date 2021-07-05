@@ -1,6 +1,0 @@
-email=jash.kolsi@gmail.com
-pass=12345
-
-email=mkvalsad@gmail.com
-pass=jash
-
